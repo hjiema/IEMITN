@@ -1,0 +1,5 @@
+Audio###music|song|podcast
+Web###work|event|weather|forecast|tempurature|restaurant|rate|book
+Video###video|playlist|movie|film
+VoIP###voip|call
+Email###email

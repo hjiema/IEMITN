@@ -1,0 +1,78 @@
+36837830.62	_!_	101	_!_	Audio	_!_	play music	_!_
+99632300.77	_!_	101	_!_	Audio	_!_	play audio	_!_
+45194233.42	_!_	101	_!_	Audio	_!_	play song	_!_
+56787777.5	_!_	101	_!_	Audio	_!_	play podcast	_!_
+58217658.1	_!_	101	_!_	Audio	_!_	put on music	_!_
+68770876.22	_!_	101	_!_	Audio	_!_	put on audio	_!_
+67135739.8	_!_	101	_!_	Audio	_!_	put on song	_!_
+85027275.49	_!_	101	_!_	Audio	_!_	put on podcast	_!_
+8290413.73	_!_	101	_!_	Audio	_!_	listen music	_!_
+68898278.03	_!_	101	_!_	Audio	_!_	listen audio	_!_
+89829306.02	_!_	101	_!_	Audio	_!_	listen song	_!_
+38797565.91	_!_	101	_!_	Audio	_!_	listen podcast	_!_
+91647763.83	_!_	101	_!_	Audio	_!_	begin music	_!_
+5859375.101	_!_	101	_!_	Audio	_!_	begin audio	_!_
+7268732.777	_!_	101	_!_	Audio	_!_	begin song	_!_
+10106868.66	_!_	101	_!_	Audio	_!_	begin podcast	_!_
+37216794.41	_!_	101	_!_	Audio	_!_	initiate music	_!_
+72181257.38	_!_	101	_!_	Audio	_!_	initiate audio	_!_
+54289301.64	_!_	101	_!_	Audio	_!_	initiate song	_!_
+71638833.21	_!_	101	_!_	Audio	_!_	initiate podcast	_!_
+20833534.88	_!_	101	_!_	Audio	_!_	start music	_!_
+73349007.06	_!_	101	_!_	Audio	_!_	start audio	_!_
+3752398.509	_!_	101	_!_	Audio	_!_	start song	_!_
+27446429.4	_!_	101	_!_	Audio	_!_	start podcast	_!_
+78537119.96	_!_	102	_!_	Web	_!_	get weather	_!_
+62162163.36	_!_	102	_!_	Web	_!_	acquire weather	_!_
+79219233.03	_!_	102	_!_	Web	_!_	fetch weather	_!_
+15858709.57	_!_	102	_!_	Web	_!_	catch weather	_!_
+54600133.99	_!_	102	_!_	Web	_!_	capture weather	_!_
+3687606.631	_!_	102	_!_	Web	_!_	check weather	_!_
+47125908.85	_!_	102	_!_	Web	_!_	update weather	_!_
+69175018.19	_!_	102	_!_	Web	_!_	get forecast	_!_
+74994178.02	_!_	102	_!_	Web	_!_	acquire forecast	_!_
+78911774.42	_!_	102	_!_	Web	_!_	fetch forecast	_!_
+29098325.61	_!_	102	_!_	Web	_!_	catch forecast	_!_
+35499716.61	_!_	102	_!_	Web	_!_	capture forecast	_!_
+99507684.88	_!_	102	_!_	Web	_!_	check forecast	_!_
+96052424.95	_!_	102	_!_	Web	_!_	update forecast	_!_
+92434855.72	_!_	102	_!_	Web	_!_	get tempurature	_!_
+14567781.65	_!_	102	_!_	Web	_!_	acquire tempurature	_!_
+98324986.58	_!_	102	_!_	Web	_!_	fetch tempurature	_!_
+14952876.49	_!_	102	_!_	Web	_!_	catch tempurature	_!_
+79774994.55	_!_	102	_!_	Web	_!_	capture tempurature	_!_
+69963212.12	_!_	102	_!_	Web	_!_	check tempurature	_!_
+14771813.84	_!_	102	_!_	Web	_!_	update tempurature	_!_
+42824280.82	_!_	102	_!_	Web	_!_	book restaurant	_!_
+26898422.71	_!_	102	_!_	Web	_!_	reserve table	_!_
+76539257.7	_!_	102	_!_	Web	_!_	rate book	_!_
+2074875.467	_!_	102	_!_	Web	_!_	review book	_!_
+56879461.88	_!_	102	_!_	Web	_!_	offer assessment of book	_!_
+9086054.201	_!_	102	_!_	Web	_!_	search screening event	_!_
+87855675.83	_!_	102	_!_	Web	_!_	search creative work	_!_
+80349959.32	_!_	102	_!_	Web	_!_	seek ScreeningEvent	_!_
+16723681.39	_!_	102	_!_	Web	_!_	find ScreeningEvent	_!_
+3822880.304	_!_	102	_!_	Web	_!_	explore ScreeningEvent	_!_
+19388779.26	_!_	102	_!_	Web	_!_	explore CreativeWork	_!_
+73023212.57	_!_	102	_!_	Web	_!_	find CreativeWork	_!_
+97010796.65	_!_	102	_!_	Web	_!_	seek CreativeWork	_!_
+20447539.85	_!_	103	_!_	Video	_!_	add to playlist	_!_
+77339072.76	_!_	103	_!_	Video	_!_	append to playlist	_!_
+75618438.82	_!_	103	_!_	Video	_!_	insert in playlist	_!_
+4761654.864	_!_	103	_!_	Video	_!_	put in playlist	_!_
+34845640.91	_!_	103	_!_	Video	_!_	include in playlist	_!_
+17402003.55	_!_	104	_!_	VoIP	_!_	make VoIP call	_!_
+87327902.77	_!_	104	_!_	VoIP	_!_	initiate a voice call	_!_
+29744828.3	_!_	104	_!_	VoIP	_!_	dial a call	_!_
+19544514.83	_!_	104	_!_	VoIP	_!_	start a call	_!_
+71309977.06	_!_	104	_!_	VoIP	_!_	place a voice call	_!_
+59134458.74	_!_	104	_!_	VoIP	_!_	establish a call	_!_
+98411515.57	_!_	105	_!_	Email	_!_	send email	_!_
+6528027.237	_!_	105	_!_	Email	_!_	email	_!_
+8446641.374	_!_	105	_!_	Email	_!_	transport email	_!_
+69560836.1	_!_	105	_!_	Email	_!_	compose email	_!_
+61794689.39	_!_	105	_!_	Email	_!_	write email	_!_
+2481358.346	_!_	105	_!_	Email	_!_	forward email	_!_
+69910213.05	_!_	105	_!_	Email	_!_	reply email	_!_
+55706218.07	_!_	105	_!_	Email	_!_	share via email	_!_
+35674762.28	_!_	105	_!_	Email	_!_	send electronic mail	_!_
